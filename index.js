@@ -1,4 +1,4 @@
-import { Design, DesignElement, FlowDesigns } from 'https://cdn.jsdelivr.net/gh/flowaboard/flowaboard/front-end/flowdesign/design.js';
+import { Design, DesignElement, FlowDesigns } from 'https://flowaboard.github.io/flowaboard/front-end/flowdesign/design.js';
 
 
 var matheMaticsDesign = new FlowDesigns.ListDesign('MatheMatics', 'mathematics', `https://en.wikipedia.org/wiki/matheMaticsion`)

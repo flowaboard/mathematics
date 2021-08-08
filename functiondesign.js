@@ -181,7 +181,6 @@ class FunctionBody extends Process {
         var mathJaxView = MathJaxView.getNewInstance();
         mathJaxView.value = this.parent.mathml
 
-        console.log(esprima)
         return mathJaxView;
     }
 
@@ -190,7 +189,6 @@ class FunctionBody extends Process {
 
         mathJaxEditor.value = this.parent.mathml
         mathJaxEditor.addEventListener('change', (e) => { this.handleValueChange(e) })
-        console.log(esprima)
         return mathJaxEditor;
     }
 

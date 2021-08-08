@@ -1,6 +1,6 @@
 import 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-svg.js'
 
-import Element from '../../../ui/element/element.js'
+import Element from 'https://flowaboard.github.io/flowaboard/front-end/ui/element/element.js'
 
 class MathJaxEditor extends Element {
 

@@ -1,4 +1,4 @@
-import { DesignElement, FlowDesigns, Process, Input, Output } from '../design.js';
+import { DesignElement, FlowDesigns, Process, Input, Output } from 'https://flowaboard.github.io/flowaboard/front-end/flowdesign/design.js';
 
 import 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-svg.js'
 
